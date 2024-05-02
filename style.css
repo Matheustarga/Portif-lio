@@ -38,13 +38,19 @@ body {
     
 }
 
-.apresentacao__conteudo__link {
-    font-size: 24px;
-    color: #000;
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+}
+.apresentacao__links__link {
     background-color: #22d4fd;
     border-radius: 16px;
     width: 280px;
-    height: 79px ;
-    padding: 16px;
-
-}
+    text-align: center;
+    font-size: 24px;
+    padding: 21.5px 0px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    color: black;
+    font-weight: 600;
+    }
