@@ -66,5 +66,11 @@ body {
     font-weight: 600;
     border: 2px solid #22d4fd;
     border-color: #22d4fd;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     }
 
+    .apresentacao__links__link:hover {
+        background-color: #272727;
+    }
