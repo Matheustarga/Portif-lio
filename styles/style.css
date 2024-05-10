@@ -17,6 +17,7 @@ body {
 .cabeçalho__menu {
     display: flex;
     gap: 80px;
+    text-decoration: none;
 }
 .cabeçalho__menu__links {
     font-family: "Montserrat", sans-serif;
